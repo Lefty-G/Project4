@@ -781,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -828,7 +828,7 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpeg");
+    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
 }
 
 @media (max-width: 1024px) {
