@@ -7,6 +7,16 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.quote {
+    font-size: 18px;
+    /* font-family: 'Arial Narrow', Arial, sans-serif; */
+}
+
+.portfolio-title{
+    font-size: 33px;
+    font-weight: 600;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
